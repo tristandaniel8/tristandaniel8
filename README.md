@@ -11,9 +11,6 @@
 🌍 Expérience internationale – semestre en Tunisie  
 🛠️ Compétences : Python, HTML/CSS/JS, Git, réseaux, pandas, scikit-learn
 
-## 🚀 Projets récents
-🌐 [Projet web – formulaire interactif](https://github.com/tristandaniel8/TeteATete)
-
 📫 [Contactez-moi sur LinkedIn](https://www.linkedin.com/in/tristan-daniel-10plc)
 ![Stats GitHub](https://github-readme-stats.vercel.app/api?username=tristandaniel8&show_icons=true&theme=default)
 
