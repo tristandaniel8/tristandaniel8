@@ -1,3 +1,8 @@
+![ISEP](https://img.shields.io/badge/ISEP-Paris-blue)
+![Statut](https://img.shields.io/badge/Étudiant%20ingénieur-Stage%202025-important)
+![Spécialité](https://img.shields.io/badge/Objectifs-IA%20%7C%20Cybersécurité-success)
+
+
 # 👋 Hello, moi c’est Tristan
 
 🎓 Étudiant en école d’ingénieur à l’ISEP (Paris)  
