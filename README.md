@@ -16,4 +16,6 @@
 ---
 
 📫 [Contactez-moi sur LinkedIn](https://www.linkedin.com/in/tristan-daniel-10plc)
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=tristandaniel8&show_icons=true&theme=default)
+
 
