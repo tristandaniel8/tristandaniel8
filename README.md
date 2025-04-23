@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello, moi c’est Tristan
 
-<!--
-**tristandaniel8/tristandaniel8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Étudiant en école d’ingénieur à l’ISEP (Paris)  
+🔍 À la recherche d’un stage de 6 mois (juillet 2025 – janvier 2026)  
+💡 Intéressé par : cybersécurité, intelligence artificielle, développement web  
+🌍 Expérience internationale – semestre en Tunisie  
+🛠️ Compétences : Python, HTML/CSS/JS, Git, réseaux, pandas, scikit-learn
 
-Here are some ideas to get you started:
+## 🚀 Projets récents
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📫 [Contactez-moi sur LinkedIn](https://www.linkedin.com/in/tristan-daniel-10plc)
+
